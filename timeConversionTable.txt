@@ -1,0 +1,7 @@
+1ms = 0.001sec
+1sec = 1sec
+1min = 60sec
+1hr = 3600sec
+1day = 86400sec
+1mo = 2628000sec
+1yr = 31540000sec

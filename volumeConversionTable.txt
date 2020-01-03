@@ -1,0 +1,9 @@
+1tbsp = 3tsp
+1fl oz = 6tsp
+1cup = 48.6922tsp
+1pt = 96tsp
+1qt = 192tsp
+1gal = 768tsp
+1ml = 0.202884tsp
+1tsp = 4.92892ml
+1l = 1000ml
